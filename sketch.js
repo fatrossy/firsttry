@@ -39,7 +39,7 @@ function draw() {
 function clockhand(x,y,rot,radius){
   push();
   translate(width/2,height/2);
-  rotate(rot);
+  rotate(-rot);
   //translate(x,y);
   noStroke();
   ellipse(x,y,radius,radius);
