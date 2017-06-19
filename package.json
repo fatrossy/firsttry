@@ -1,0 +1,22 @@
+{
+  "name": "firsttry",
+  "version": "1.0.0",
+  "description": "p5 small try",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatrossy/firsttry.git"
+  },
+  "author": "Ruoshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatrossy/firsttry/issues"
+  },
+  "homepage": "https://github.com/fatrossy/firsttry#readme",
+  "dependencies": {
+    "p5": "^0.5.11"
+  }
+}
